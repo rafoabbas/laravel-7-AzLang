@@ -3,11 +3,11 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Parola hatırlatma metinleri
+    | Şifrə xatırlatma mətnləri
     |--------------------------------------------------------------------------
     |
-    | Aşağıdaki metinler, başarısız olmuş bir parola sıfırlama
-    | işleminde oluşan hataları temsil eden mesajlardır.
+    | Aşağıdakı mətnlər uğursuz bir şifrə sıfırladığınzda
+    | istifadə olunan mesajlardır.
     |
     */
 

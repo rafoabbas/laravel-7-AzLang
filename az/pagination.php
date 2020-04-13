@@ -3,12 +3,12 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Sayfalama metinleri
+    | Səhifələmə mətinləri
     |--------------------------------------------------------------------------
     |
-    | Aşağıdaki metinler sayfalama kütüphanelerinin linklerini oluşturmak
-    | için kullandıkları mesajlardır. Bu metinleri uygulamanızın
-    | tasarım ihtiyaçlarına göre değiştirmekte özgürsünüz.
+    | Aşağıdakı  mətnlər  səhifələmə linkərini yaratmaq
+    | üçün istifadə etdikləri mesajlardır. Bu mətinləri tətbiqinizi
+    | gərəksinimlərinə görə redaktə edə bilərsiniz.
     |
     */
 

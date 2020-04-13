@@ -3,12 +3,12 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Kimlik kontrol metinleri
+    | Giriş kontrol mətinləri
     |--------------------------------------------------------------------------
     |
-    | Aşağıdaki metinler kimlik doğrulama (giriş) sırasında kullanıcılara
-    | gösterilebilecek mesajlardır. Bu metinleri uygulamanızın
-    | gereksinimlerine göre düzenlemekte özgürsünüz.
+    | Aşağıdakı mətinlər kimlik doğrulama (giriş) sırasında istifadəçilərə
+    | göstəriləbiləcək mesajlardır. Bu mətinləri tətbiqinizi
+    | gərəksinimlərinə görə redaktə edə bilərsiniz.
     |
     */
 
